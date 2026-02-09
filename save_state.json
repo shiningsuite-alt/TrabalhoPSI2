@@ -1,0 +1,77 @@
+{
+    "classes": {
+        "10 (1-A (GPSI))": [
+            "abel",
+            "alexander",
+            "bernardo",
+            "carlos",
+            "carlos silva",
+            "chiom",
+            "daniel",
+            "david",
+            "diego",
+            "dinis",
+            "diogo"
+        ]
+    },
+    "grades": {
+        "10 (1-A (GPSI))": {
+            "abel": {},
+            "alexander": {},
+            "bernardo": {},
+            "carlos": {},
+            "carlos silva": {},
+            "chiom": {},
+            "daniel": {},
+            "diego": {},
+            "diogo": {},
+            "dinis": {},
+            "david": {
+                "Educa\u00e7\u00e3o Fisica": {},
+                "Portugu\u00ease": {
+                    "evaluations": [
+                        50,
+                        75
+                    ],
+                    "Grades": 62.5
+                },
+                "Programa\u00e7\u00e3o de sitemas informaticas": {
+                    "evaluations": [
+                        5
+                    ]
+                }
+            }
+        }
+    },
+    "faltas": {
+        "10 (1-A (GPSI))": {
+            "abel": {},
+            "alexander": {},
+            "bernardo": {},
+            "carlos": {},
+            "carlos silva": {},
+            "chiom": {},
+            "daniel": {},
+            "diego": {},
+            "diogo": {},
+            "dinis": {},
+            "david": {
+                "Educa\u00e7\u00e3o Fisica": {
+                    "material_absence": 3,
+                    "unjustified_absence": [
+                        "17/12/2025",
+                        "18/12/2025"
+                    ],
+                    "justified_absence": [
+                        "15/12/2025",
+                        "16/12/2025"
+                    ],
+                    "disciplinary_absence": [
+                        "Monkey",
+                        "Falaste muito"
+                    ]
+                }
+            }
+        }
+    }
+}
