@@ -1,0 +1,31 @@
+{
+    "items": {
+        "apple": [
+            1,
+            "apple",
+            "fruits",
+            1.0,
+            95
+        ]
+    },
+    "lists": {
+        "items_class": [
+            "fruits"
+        ],
+        "items_class_temp": [
+            "apple"
+        ]
+    },
+    "sales": {
+        "temp_order": {},
+        "orders": {
+            "order1": {
+                "apple": [
+                    15,
+                    "apple",
+                    15.0
+                ]
+            }
+        }
+    }
+}
