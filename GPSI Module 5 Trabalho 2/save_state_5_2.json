@@ -1,0 +1,195 @@
+{
+    "schedule": {
+        "headers": [
+            "Time",
+            "1 - Monday",
+            "2 - Tuesday",
+            "3 - Wednesday",
+            "4 - Thursday",
+            "5 - Friday"
+        ],
+        "headers_2": [
+            "Id",
+            "Name",
+            "Product type",
+            "Time",
+            "Day",
+            "Description"
+        ],
+        "list_of_days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "list_of_time": [
+            "8:00",
+            "9:05",
+            "10:15",
+            "11:25",
+            "12:35",
+            "13:45",
+            "14:50",
+            "16:00",
+            "17:10"
+        ],
+        "Monday": {
+            "8:00": [
+                2,
+                "amad",
+                "apples",
+                "8:00",
+                "Monday",
+                "none"
+            ],
+            "9:05": [
+                1,
+                "muhammad",
+                "apples",
+                "9:05",
+                "Monday",
+                "none"
+            ],
+            "10:15": [],
+            "11:25": [],
+            "12:35": [],
+            "13:45": [],
+            "14:50": [],
+            "16:00": [],
+            "17:10": []
+        },
+        "Tuesday": {
+            "8:00": [
+                3,
+                "martim",
+                "oranges",
+                "8:00",
+                "Tuesday",
+                "none"
+            ],
+            "9:05": [],
+            "10:15": [],
+            "11:25": [],
+            "12:35": [],
+            "13:45": [],
+            "14:50": [],
+            "16:00": [],
+            "17:10": []
+        },
+        "Wednesday": {
+            "8:00": [],
+            "9:05": [],
+            "10:15": [],
+            "11:25": [],
+            "12:35": [],
+            "13:45": [],
+            "14:50": [],
+            "16:00": [],
+            "17:10": []
+        },
+        "Thursday": {
+            "8:00": [],
+            "9:05": [],
+            "10:15": [],
+            "11:25": [],
+            "12:35": [],
+            "13:45": [],
+            "14:50": [],
+            "16:00": [],
+            "17:10": []
+        },
+        "Friday": {
+            "8:00": [],
+            "9:05": [],
+            "10:15": [],
+            "11:25": [],
+            "12:35": [],
+            "13:45": [],
+            "14:50": [],
+            "16:00": [],
+            "17:10": []
+        },
+        "listed_names": [
+            "martim",
+            "muhammad",
+            "ahmed",
+            "amad"
+        ],
+        "print": [
+            [
+                "8:00",
+                "\u001b[32mFull\u001b[0m",
+                "\u001b[32mFull\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m"
+            ],
+            [
+                "9:05",
+                "\u001b[32mFull\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m"
+            ],
+            [
+                "10:15",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m"
+            ],
+            [
+                "11:25",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m"
+            ],
+            [
+                "12:35",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m"
+            ],
+            [
+                "13:45",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m"
+            ],
+            [
+                "14:50",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m"
+            ],
+            [
+                "16:00",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m"
+            ],
+            [
+                "17:10",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m",
+                "\u001b[31mEmpty\u001b[0m"
+            ]
+        ]
+    },
+    "sales": {}
+}
